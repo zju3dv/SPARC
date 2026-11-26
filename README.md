@@ -35,7 +35,7 @@
 </p>
 
 [![Project Page](https://img.shields.io/badge/Project_Page-SPARC-2563eb?style=flat-square)](https://zju3dv.github.io/SPARC/)
-[![arXiv](https://img.shields.io/badge/arXiv-2606.23455-b31b1b?style=flat-square)](https://arxiv.org/abs/2606.23455)
+[![arXiv](https://img.shields.io/badge/arXiv-2611.34064-b31b1b?style=flat-square)](https://arxiv.org/abs/2611.34064)
 [![Video](https://img.shields.io/badge/Video-YouTube-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://zju3dv.github.io/SPARC/#video)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-green?style=flat-square)](LICENSE)
 
@@ -76,7 +76,7 @@ If you find this work useful for your research, please consider citing:
   author  = {Yang, Zesong and Chen, Weikai and Cui, Liyuan and Li, Yuan and Huang, Jiaxin and
              Jiang, Lutao and Zhang, Runze and Yin, Yingda and Huang, Xiaoyang and Yan, Kai and
              Luo, Keyang and Wang, Xin and Bao, Hujun and Cui, Zhaopeng},
-  journal = {arXiv preprint},
+  journal = {arXiv preprint arXiv:2611.34064},
   year    = {2026}
 }
 ```
