@@ -43,6 +43,7 @@
 
 ## 📰 News
 
+- **[Coming Soon]** Code will be released before 2026-12-10. Stay tuned! 🚀
 - **[2026-11-25]** Release project page and arxiv paper. 🌏
 
 ## ✨ Overview
